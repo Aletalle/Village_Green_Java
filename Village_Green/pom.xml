@@ -43,7 +43,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.3</version>
                 <configuration>
-                    <mainClass>merrymaking.App</mainClass>
+                    <mainClass>Village_Green.App</mainClass>
                 </configuration>
             </plugin>
         </plugins>
